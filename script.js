@@ -1,0 +1,1 @@
+document.entdEventListener('DOMContentLoaded'function({})
